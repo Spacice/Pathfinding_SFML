@@ -1,1 +1,1 @@
-# Pathfinging_SFML
+# Pathfinding_SFML
